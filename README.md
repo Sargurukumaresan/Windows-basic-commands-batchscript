@@ -1,7 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-#### SARGURU K
-#### 212222230134
+#### NAME : SARGURU K
+#### REG NO : 212222230134
 
 # AIM:
 To execute Windows basic commands and batch scripting
